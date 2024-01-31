@@ -1,3 +1,13 @@
+<style>
+body {
+    font-family: Times New Roman, serif; 
+}
+</style>
+# Java Programs
+
+This repository contains Java programs that I created during my class.
+
+...
 
 # Java Programs
 
@@ -11,7 +21,7 @@ This repository contains Java programs that I created during my class.
 
 ## Program 1
 
-Description: This program calculates the sum of two numbers.
+Description: This program print hellow World Message.
 
 ### Usage
 
