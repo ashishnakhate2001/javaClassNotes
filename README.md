@@ -5,9 +5,9 @@ This repository contains Java programs that I created during my class.
 
 ## Table of Contents
 
-- [Program 1](#program-1)
-- [Program 2](#program-2)
-- [Program 3](#program-3)
+- [Program 1](#program-1) - Hellow World Program.
+- [Program 2](#program-2) - Find simple Interest (scanner class).
+- [Program 3](#program-3) - 
 
 ## Program 1
 
