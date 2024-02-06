@@ -1,6 +1,7 @@
+
 <style>
 body {
-    font-family: Times New Roman, serif; 
+    font-family: "Times New Roman", Times, serif; 
 }
 </style>
 # Java Programs
@@ -40,5 +41,8 @@ To run the program, follow these steps:
 
 ## Program 2
 
-Description: This program ...
+Description: This program I take user input and add. 
 
+## Program 3
+
+Description: This program calculate simple interest.
