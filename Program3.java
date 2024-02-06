@@ -22,5 +22,6 @@ public class Program3 {
         int d = (int) b; // explicit typecasting
 
         System.out.println(d);
+        
     }
 }

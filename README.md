@@ -1,28 +1,18 @@
 
-<style>
-body {
-    font-family: "Times New Roman", Times, serif; 
-}
-</style>
-# Java Programs
+# **Java Programs**
 
-This repository contains Java programs that I created during my class.
-
-...
-
-# Java Programs
-
-This repository contains Java programs that I created during my class.
+*This repository contains Java programs that I created during my class.*
 
 ## Table of Contents
 
-- [Program 1](#program-1) - Hellow World Program.
-- [Program 2](#program-2) - Add two number (Scanner class).
+- [Program 1](#program-1) - Hello World Program.
+- [Program 2](#program-2) - Add two numbers (Scanner class).
 - [Program 3](#program-3) - Typecasting.
+- [Program 3](#program-3) - Variables.
 
 ## Program 1
 
-Description: This program print hellow World Message.
+Description: This program prints Hello World Message.
 
 ### Usage
 
@@ -41,8 +31,12 @@ To run the program, follow these steps:
 
 ## Program 2
 
-Description: This program I take user input and add. 
+Description: This program takes user input and adds.
 
 ## Program 3
 
-Description: This program demonstrates typecasting.
+Description: This program demonstrates implicit and explicit typecasting.
+
+## Program 4
+
+Description: This program demonstrates the declaration and printing of different type variables and their values, size and range
