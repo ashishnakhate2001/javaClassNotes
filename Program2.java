@@ -1,3 +1,6 @@
+/**
+ * This class demonstrates the user input and output.
+ */
 import java.util.Scanner;
 
     public class Program2 {

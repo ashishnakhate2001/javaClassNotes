@@ -17,8 +17,8 @@ This repository contains Java programs that I created during my class.
 ## Table of Contents
 
 - [Program 1](#program-1) - Hellow World Program.
-- [Program 2](#program-2) - Find simple Interest (scanner class).
-- [Program 3](#program-3) - 
+- [Program 2](#program-2) - Add two number (Scanner class).
+- [Program 3](#program-3) - Typecasting.
 
 ## Program 1
 
@@ -45,4 +45,4 @@ Description: This program I take user input and add.
 
 ## Program 3
 
-Description: This program calculate simple interest.
+Description: This program demonstrates typecasting.
