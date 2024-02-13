@@ -28,6 +28,10 @@ build/
 .DS_Store
 Thumbs.db
 
+<<<<<<< HEAD
 
 .json
 
+=======
+.json
+>>>>>>> 4130bce51b5bf9fa4a7d2457c0dd0f2a44fcb3f9
