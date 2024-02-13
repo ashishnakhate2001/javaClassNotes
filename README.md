@@ -8,7 +8,9 @@
 - [Program 1](#program-1) - Hello World Program.
 - [Program 2](#program-2) - Add two numbers (Scanner class).
 - [Program 3](#program-3) - Typecasting.
-- [Program 3](#program-3) - Variables.
+- [Program 4](#program-4) - Variables.
+- [Program 5](#program-5) - Vote (if()else).
+- [Program 5](#program-5) - Grade.
 
 ## Program 1
 

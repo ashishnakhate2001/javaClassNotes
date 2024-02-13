@@ -11,7 +11,7 @@ public class Program3 {
         System.out.println("Enter integer value");
         int a = sc.nextInt();
 
-        float c = a; // implicit typecasting
+        float c = a; // implicit typecasting (low to high)
 
         System.out.printf("%.3f\n", c); //print 3 decimal places
 
@@ -19,7 +19,7 @@ public class Program3 {
 
         float b = sc.nextFloat(); 
 
-        int d = (int) b; // explicit typecasting
+        int d = (int) b; // explicit typecasting (high to low)
 
         System.out.println(d);
         
